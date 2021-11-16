@@ -6,7 +6,7 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message = "Hello World!";
+    private final String message = "This is jenkins pipeline for maven project. A simple maven text project ";
 
     public App() {}
 
